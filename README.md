@@ -1,8 +1,8 @@
 # privacy_policy
 
-Privacy Policy for [App Name]
+Privacy Policy for iEstate
 
-Last updated: [Date]
+Last updated: 29/05/2023
 
 This Privacy Policy describes how iEstate we collects, uses, stores, and shares your personal information when you use our mobile application [App Name] (the "App"). By using the App, you agree to the collection and use of your personal information as described in this Privacy Policy.
 
